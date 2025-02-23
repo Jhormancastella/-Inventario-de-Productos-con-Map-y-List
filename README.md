@@ -27,7 +27,7 @@ El proyecto utiliza conceptos básicos de programación en Java, como coleccione
 ### Clonar Repositorio  
 
 ```bash  
-git clone https://github.com/Jhormancastella/Gestion-de-Estudiantes-con-List.git  
+git clone https://github.com/Jhormancastella/-Inventario-de-Productos-con-Map-y-List.git
 ```  
 
 ### Compilar y Ejecutar  
